@@ -26,20 +26,14 @@
   
   <!-- Tools -->
   <h3>Tools</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-    width="60px"
-    alt="Git">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-    width="60px"
-    alt="Docker">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
-    width="60px"
-    alt="VS Code">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src= "https://skillicons.dev/icons?i=github,docker,vscode">
   
 </div>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="www.linkedin.com/in/santiago-florez-quintero-004a93210"><img src="https://img.shields.io/badge/-Santiago%20Florez%20Quintero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sflorezq@unicartagena.edu.co"><img src="https://img.shields.io/badge/-sflorezq@unicartagena.edu.co-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
