@@ -2,13 +2,13 @@
 
 <!--Presentation-->
 <div>
-* I am [Santiago Florez Quintero]((https://www.linkedin.com/in/santiago-florez-quintero-004a93210/)) :blush:	 . Currently I am a five year student from Cartagena's University in Systems Engineering :satellite:
+* I am Santiago Florez Quintero :blush:	 . Currently I am a five year student from Cartagena's University in Systems Engineering :satellite:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Systems Engeneering at the University of Cartagena.\
-🌱 &nbsp;I'm on track for learning more about Data Science, Maching Learning, Systems Design, and Clean Architecture.\
+🌱 &nbsp;I'm on track for learning more about Data Science, Maching Learning, Systems Design, and Clean Architecture.
 </div>
 <br>
 <!-- STACK -->
